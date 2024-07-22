@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "YofzSK5x/VaKWrFAS7Rsw5GTB/JnAO+nYb30Tp0MwJcFeIcpLxSI0ALIeGJqAwakPHZx7x8+7821h1Zc84VzgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pedro.Padilha\\Documents\\4-Fontes\\C#\\EnviaSerialForm\\EnviaSerialForm\\EnviaSerialForm\\EnviaSerialForm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\Pedro.Padilha\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
